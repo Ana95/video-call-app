@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimary">#A01717</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#B4B2B2</color>
+
+    <color name="colorPrimaryNight">#16202c</color>
+    <color name="colorPrimaryDarkNight">#141d26</color>
+    <color name="colorAccentNight">#ffffff</color>
+
+    <color name="primaryTitleColor">#212121</color>
+    <color name="primaryTitleColorNight">#FFFFFF</color>
+
+    <color name="primaryBackgroundColor">#FAF7F7</color>
+
+    <color name="primaryButtonColor">#FAF7F7</color>
+    <color name="primaryButtonColorNight">#16202c</color>
+
+    <color name="primaryDialogBackgroundColor">#FAF7F7</color>
+    <color name="primaryDialogBackgroundColorNight">#B4B2B2</color>
+
+    <color name="red_colorPrimary">#ff0000</color>
+    <color name="red_colorPrimaryDark">#DF0000</color>
+    <color name="red_colorAccent">#223300</color>
+
+    <color name="pink_colorPrimary">#e91e63</color>
+    <color name="pink_colorPrimaryDark">#CB1755</color>
+    <color name="pink_colorAccent">#2095f2</color>
+
+    <color name="violet_colorPrimary">#6639b6</color>
+    <color name="violet_colorPrimaryDark">#502ca7</color>
+    <color name="violet_colorAccent">#e81d62</color>
+
+    <color name="shadowOfBlue1_colorPrimary">#00b3b3</color>
+    <color name="shadowOfBlue1_colorPrimaryDark">#006666</color>
+    <color name="shadowOfBlue1_colorAccent">#ff8000</color>
+
+    <color name="orange_colorPrimary">#ffa31a</color>
+    <color name="orange_colorPrimaryDark">#cc7a00</color>
+    <color name="orange_colorAccent">#1a0f00</color>
+
+    <color name="purple_colorPrimary">#cc99ff</color>
+    <color name="purple_colorPrimaryDark">#b31aff</color>
+    <color name="purple_colorAccent">#77773c</color>
+
+    <color name="shadowOfBlue2_colorPrimary">#538cc6</color>
+    <color name="shadowOfBlue2_colorPrimaryDark">#2d5986</color>
+    <color name="shadowOfBlue2_colorAccent">#b30000</color>
+
+    <color name="darkorange_colorPrimary">#e65c00</color>
+    <color name="darkorange_colorPrimaryDark">#993d00</color>
+    <color name="darkorange_colorAccent">#000033</color>
+
+    <color name="purple1_colorPrimary">#9933ff</color>
+    <color name="purple1_colorPrimaryDark">#6600cc</color>
+    <color name="purple1_colorAccent">#e68a00</color>
+
+    <color name="skyblue_colorPrimary">#03A9F4</color>
+    <color name="skyblue_colorPrimaryDark">#0094D7</color>
+    <color name="skyblue_colorAccent">#fec006</color>
+
+    <color name="darkblue_colorPrimary"> #000099</color>
+    <color name="darkblue_colorPrimaryDark">#000066</color>
+    <color name="darkblue_colorAccent">#e68a00</color>
+
+    <color name="green_colorPrimary">#4CAF50</color>
+    <color name="green_colorPrimaryDark">#419744</color>
+    <color name="green_colorAccent">#785447</color>
+
+    <color name="lightgreen_colorPrimary">#47d147</color>
+    <color name="lightgreen_colorPrimaryDark">#248f24</color>
+    <color name="lightgreen_colorAccent">#606060</color>
+
+    <color name="darkred_colorPrimary">#cc6666</color>
+    <color name="darkred_colorPrimaryDark">#862d2d</color>
+    <color name="darkred_colorAccent">#f90</color>
+
+    <color name="brown_colorPrimary">#795548</color>
+    <color name="brown_colorPrimaryDark">#63453B</color>
+    <color name="brown_colorAccent">#e81d62</color>
+
 </resources>

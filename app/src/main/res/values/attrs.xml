@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="primaryTitleColor" format="color" />
+    <attr name="primaryBackgroundColor" format="color" />
+    <attr name="primaryButtonColor" format="color" />
+    <attr name="primaryDialogBackgroundColor" format="color" />
+</resources>

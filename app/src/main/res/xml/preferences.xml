@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <PreferenceCategory
+        android:title="ACCOUNT SETTINGS"
+        android:layout="@layout/preferences_category">
+
+        <ListPreference
+            android:key="language_key"
+            android:title="@string/language"
+            android:summary="@string/choose_language"
+            android:entries="@array/languageList"
+            android:entryValues="@array/languageListValue" />
+
+        <Preference
+            android:key="change_password"
+            android:title="@string/password"
+            android:summary="@string/change_password" />
+
+        <SwitchPreference
+            android:key="enable_dark_mode"
+            android:editable="true"
+            android:title="@string/enable_dark_mode"
+            android:summaryOn="@string/night_mode"
+            android:summaryOff="@string/light_mode"/>
+
+        <Preference
+            android:key="change_theme"
+            android:title="@string/themes"
+            android:summary="@string/change_theme" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

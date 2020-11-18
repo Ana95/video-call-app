@@ -1,11 +1,215 @@
 <resources>
-
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_darkblue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkblue_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/darkblue_colorPrimaryDark</item>
+        <item name="colorAccent">@color/darkblue_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_shadowOfBlue1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/shadowOfBlue1_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/shadowOfBlue1_colorPrimaryDark</item>
+        <item name="colorAccent">@color/shadowOfBlue1_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_orange" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/orange_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/orange_colorPrimaryDark</item>
+        <item name="colorAccent">@color/orange_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_purple" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/purple_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/purple_colorPrimaryDark</item>
+        <item name="colorAccent">@color/purple_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_shadowOfBlue2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/shadowOfBlue2_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/shadowOfBlue2_colorPrimaryDark</item>
+        <item name="colorAccent">@color/shadowOfBlue2_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_darkorange" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkorange_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/darkorange_colorPrimaryDark</item>
+        <item name="colorAccent">@color/darkorange_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_purple1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/purple1_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/purple1_colorPrimaryDark</item>
+        <item name="colorAccent">@color/purple1_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_lightgreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/lightgreen_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/lightgreen_colorPrimaryDark</item>
+        <item name="colorAccent">@color/lightgreen_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_darkred" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkred_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/darkred_colorPrimaryDark</item>
+        <item name="colorAccent">@color/darkred_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_red" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/red_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/red_colorPrimaryDark</item>
+        <item name="colorAccent">@color/red_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_pink" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/pink_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/pink_colorPrimaryDark</item>
+        <item name="colorAccent">@color/pink_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_violet" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/violet_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/violet_colorPrimaryDark</item>
+        <item name="colorAccent">@color/violet_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_skyblue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/skyblue_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/skyblue_colorPrimaryDark</item>
+        <item name="colorAccent">@color/skyblue_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_green" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/green_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/green_colorPrimaryDark</item>
+        <item name="colorAccent">@color/green_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme_brown" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/brown_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/brown_colorPrimaryDark</item>
+        <item name="colorAccent">@color/brown_colorAccent</item>
+
+        <item name="android:windowBackground">@color/primaryBackgroundColor</item>
+        <item name="primaryTitleColor">@color/primaryTitleColor</item>
+        <item name="primaryButtonColor">@color/primaryButtonColor</item>
+        <item name="primaryDialogBackgroundColor">@color/primaryDialogBackgroundColor</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
     </style>
 
 </resources>
